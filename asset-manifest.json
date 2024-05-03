@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-DVC/static/css/main.dc8eaa31.css",
+    "main.js": "/React-DVC/static/js/main.49f0480b.js",
+    "static/media/rajesh.webp": "/React-DVC/static/media/rajesh.8462c34e9ec3b050422b.webp",
+    "index.html": "/React-DVC/index.html",
+    "main.dc8eaa31.css.map": "/React-DVC/static/css/main.dc8eaa31.css.map",
+    "main.49f0480b.js.map": "/React-DVC/static/js/main.49f0480b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc8eaa31.css",
+    "static/js/main.49f0480b.js"
+  ]
+}
