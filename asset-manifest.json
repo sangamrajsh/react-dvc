@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/React-DVC/static/css/main.dc8eaa31.css",
-    "main.js": "/React-DVC/static/js/main.49f0480b.js",
-    "static/media/rajesh.webp": "/React-DVC/static/media/rajesh.8462c34e9ec3b050422b.webp",
-    "index.html": "/React-DVC/index.html",
-    "main.dc8eaa31.css.map": "/React-DVC/static/css/main.dc8eaa31.css.map",
-    "main.49f0480b.js.map": "/React-DVC/static/js/main.49f0480b.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.dc8eaa31.css",
-    "static/js/main.49f0480b.js"
-  ]
+    "main.css": "/react-dvc/static/css/main.2edf07d6.chunk.css",
+    "main.js": "/react-dvc/static/js/main.82cea4ec.chunk.js",
+    "main.js.map": "/react-dvc/static/js/main.82cea4ec.chunk.js.map",
+    "runtime~main.js": "/react-dvc/static/js/runtime~main.8fba3bd0.js",
+    "runtime~main.js.map": "/react-dvc/static/js/runtime~main.8fba3bd0.js.map",
+    "static/js/2.55c97d52.chunk.js": "/react-dvc/static/js/2.55c97d52.chunk.js",
+    "static/js/2.55c97d52.chunk.js.map": "/react-dvc/static/js/2.55c97d52.chunk.js.map",
+    "index.html": "/react-dvc/index.html",
+    "precache-manifest.61e4c50cb0992b33c0cd108584b4fdee.js": "/react-dvc/precache-manifest.61e4c50cb0992b33c0cd108584b4fdee.js",
+    "service-worker.js": "/react-dvc/service-worker.js",
+    "static/css/main.2edf07d6.chunk.css.map": "/react-dvc/static/css/main.2edf07d6.chunk.css.map",
+    "static/media/rajesh.webp": "/react-dvc/static/media/rajesh.fb81867f.webp"
+  }
 }
